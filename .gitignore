@@ -1,0 +1,8 @@
+target/
+reports/
+screenshots/
+.idea/
+
+*.class
+*.log
+Test Results*.html
